@@ -6,7 +6,7 @@
 
 ## Лістинг:
 
-### calcalator.cpp
+### calculator.cpp
 
 ```cpp
 #include "calculator.h"
